@@ -3348,7 +3348,7 @@ nth-check@^2.1.1:
   dependencies:
     boolbase "^1.0.0"
 
-nuxt@^4.6.0:
+nuxt@^4.6.1:
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-4.6.1.tgz#ab1ac381253b6e3636298c82af7a8dd1aecccd1a"
   integrity sha512-L6Emg0OezAgqVlFrQ64Mjd8NpSu3FfR0GchDmmSjYrjhGyDFgVzY0pw201UCApXJaeK/06jW7ZjxE2pLZkELTw==

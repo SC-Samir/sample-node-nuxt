@@ -13,7 +13,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^4.6.0"
+    "nuxt": "^4.6.1"
   },
   "resolutions": {
     "@nuxt/devtools": "^v4.0.0-beta.4"
